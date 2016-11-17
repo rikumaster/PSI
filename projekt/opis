@@ -1,0 +1,2 @@
+Uczenie metodą hebba dla danych: 
+Bitmapa 3x5 reprezentująca różne wariacje litery A oraz pozostałe litery (15 wejść), rozpoznawanie czy dana bitmapa reprezentowana kodem binarnym reprezentuje literę A czy coś innego. (1 wyjście - funkcja aktywacji liniowa - signum)
